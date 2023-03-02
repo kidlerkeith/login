@@ -1,0 +1,34 @@
+body{
+    background-color:grey;
+
+
+
+}
+.top-div{
+    margin:auto;
+    text-align: center;
+    background-color:rgb(15, 5, 93);
+    color:rgb(24, 100, 188);
+    border-style:dashed;
+    padding:20px;
+    width: 500px;
+    margin-top:150px;
+
+}
+
+.title{
+    font-size:50px;
+}
+.credentials{
+    padding:10px;
+    font-size:20px;
+
+}
+#username-input{
+    margin-bottom:50px;
+
+
+}
+#sign-in-button{
+    margin-top:50px;
+}
